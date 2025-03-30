@@ -63,7 +63,7 @@ class DeveloperProfile extends StatelessWidget {
             ),
             SizedBox(height: 8),
             Text(
-              "A software developer who enjoys working with Flutter, Dart, and backend technologies. Passionate about building user-friendly mobile and web applications.",
+              "A software engineer who loves working with Flutter, Dart, and backend technologies. Passionate about designing user-friendly mobile and online applications.",
               style: TextStyle(fontSize: 16),
             ),
             SizedBox(height: 20),
